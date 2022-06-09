@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:layout_marginTop="5dp"
+                android:id="@+id/btnP1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:backgroundTint="#258CDA"
+                android:minHeight="60dp"
+                android:text="Поликлиника №1" />
+
+            <Button
+                android:id="@+id/btnP2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:backgroundTint="#258CDA"
+                android:minHeight="60dp"
+                android:text="Поликлиника №2" />
+
+            <Button
+                android:id="@+id/btnP3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:backgroundTint="#258CDA"
+                android:minHeight="60dp"
+                android:text="Поликлиника №4" />
+
+            <Button
+                android:id="@+id/btnP4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:backgroundTint="#258CDA"
+                android:minHeight="60dp"
+                android:text="Поликлиника №5" />
+
+            <Button
+                android:id="@+id/btnP5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:backgroundTint="#258CDA"
+                android:minHeight="60dp"
+                android:text="Поликлиника №6" />
+
+            <Button
+                android:id="@+id/btnP6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:backgroundTint="#258CDA"
+                android:minHeight="60dp"
+                android:text="Поликлиника №7" />
+
+            <Button
+                android:id="@+id/btnP7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:backgroundTint="#258CDA"
+                android:minHeight="60dp"
+                android:text="Поликлиника №10" />
+
+            <Button
+                android:id="@+id/btnP8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:backgroundTint="#258CDA"
+                android:minHeight="60dp"
+                android:text="Поликлиника №13" />
+
+            <Button
+                android:id="@+id/btnP9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:backgroundTint="#258CDA"
+                android:minHeight="60dp"
+                android:text="Поликлиника №25" />
+
+            <Button
+                android:id="@+id/btnP10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:backgroundTint="#258CDA"
+                android:minHeight="60dp"
+                android:text="Поликлиника №31" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+</RelativeLayout>
